@@ -1,0 +1,38 @@
+[
+{
+ "nama": "Paracetamol",
+ "harga": 10000,
+ "deskripsi": "Paracetamol adalah obat untuk meredakan demam dan nyeri, termasuk nyeri haid atau sakit gigi",
+ "gambar": "https://i.imgur.com/fVaBDMJ.jpeg"
+},
+{
+"nama": "Promag",
+"harga": 15000,
+"deskripsi": "PROMAG merupakan obat sakit maag dengan kandungan Hydrotalcite, Mg(OH)2, Simethicone dalam bentuk tablet",
+ "gambar": "https://i.imgur.com/nHPreoo.jpeg"
+},
+{
+"nama": "aspirin",
+"harga": 20000,
+"deskripsi": "Aspirin merupakan obat yang bisa menyembuhkan demam, jerawat dan anti imflamasi",
+ "gambar": "https://i.imgur.com/iFsa9JA.jpeg"
+},
+ {
+"nama": "bodrex",
+"harga": 10000,
+"deskripsi": "Bodrex adalah obat untuk mengurangi rasa sakit kepala",
+ "gambar": "https://i.imgur.com/BR4qr4K.jpeg"
+},
+ {
+"nama": "aceon",
+"harga": 20000,
+"deskripsi": "Aceon adalah merupakan obat untuk menurunkan darah tinggi",
+ "gambar": "https://i.imgur.com/e7LfZ9A.jpeg"
+},
+{
+"nama": "diatab",
+"harga": 6000,
+"deskripsi": "Diatab adalah obat untuk mengurangi gejala diare dan skait perut",
+"gambar": "https://i.imgur.com/pxvFq5T.jpeg"
+}
+]
